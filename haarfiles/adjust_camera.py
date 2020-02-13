@@ -1,3 +1,9 @@
+
+'''
+Use a opencv to find the user's face on their front camera, then instruct them how 
+to move their face to center in the middle of the screen. could be used in selfie 
+applications.
+'''
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
