@@ -1,2 +1,4 @@
 # opencvandencryption
-various projects using open cv and various projects using different encryption algorithms 
+My early explorations of the openCV library and primative encryption algorithms
+
+
